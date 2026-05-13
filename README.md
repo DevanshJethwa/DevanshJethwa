@@ -1,24 +1,45 @@
-<h1 align="center">Hi 👋, I'm Devansh Jethwa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="left">Hi there 👋 I'm Devansh Jethwa</h4>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip%20views&color=0e75b6&style=flat" alt="devanshjethwa" /> </p>
+###
 
-- 🌱 I’m currently learning **NextJS**
+<p align="left">🚀 About Me<br>     • 💻 Developer passionate about building web applications  <br>• 🌱 Currently learning MERN Stack Development<br>• ⚡ Experienced with React, Bootstrap, Tailwind CSS, JavaScript, and APIs  <br>• 🎯 Interested in Full Stack Web Development</p>
 
-- 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
+###
 
-- 💬 Ask me about **Bootsrtap, Tailwind, ReactJs**
+<p align="left">🛠️ Tech Stack</p>
 
-- 📫 How to reach me **https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="devansh-jethwa-400140276" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="android" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="bootstrap" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="c" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="cplusplus" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="csharp" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="css3" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="dotnet" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="git" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="html5" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="javascript" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="mssql" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="mysql" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="oracle" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="php" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="python" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="react" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="sqlite" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="tailwind" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="devanshjethwa" /></p>
+<p align="left">📌 Projects</p>
 
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/DevanshJethwa/DevanshJethwa/main/arkose/DevanshJethwa_2.9.zip" alt="devanshjethwa" /></p>
+###
+
+<p align="left">🌦️ Weather App<br>Real-time weather forecast app with 7-day prediction using APIs.</p>
+
+###
