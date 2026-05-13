@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devansh Jethwa</h1>
 
 <h3 align="center">
-Frontend Developer • MERN Stack Web Developer
+Frontend Developer • Full Stack Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ Frontend Developer • MERN Stack Web Developer
 # 🚀 About Me
 
 - 💻 Passionate about building modern web applications
-- 🌱 Currently learning **MERN Stack Development**
+- 🌱 Currently learning **Full Stack Development**
 - ⚡ Skilled in **React, JavaScript, Bootstrap, Tailwind CSS, APIs**
 - 🎯 Interested in **Full Stack Web Development**
 - 📚 Love learning new technologies and improving coding skills
@@ -49,7 +49,7 @@ Real-time weather forecast app with 7-day prediction using APIs.
 
 # 🌱 Currently Learning
 
-- MERN Stack
+- Full Stack
 - Backend Development
 - REST APIs
 - Authentication & JWT
