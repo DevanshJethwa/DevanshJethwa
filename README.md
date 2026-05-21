@@ -96,7 +96,7 @@ Real-time weather forecast app with 7-day prediction using APIs.
 
 # 💡 Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.”
 
 ---
 
