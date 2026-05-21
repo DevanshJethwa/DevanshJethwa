@@ -14,7 +14,7 @@ Frontend Developer • Full Stack Web Developer
 
 - 💻 Passionate about building modern web applications
 - 🌱 Currently learning **Full Stack Development**
-- ⚡ Skilled in **React, JavaScript, Bootstrap, Tailwind CSS, APIs**
+- ⚡ Skilled in **React, JavaScript, Node, Express, Bootstrap, Tailwind CSS, APIs**
 - 🎯 Interested in **Full Stack Web Development**
 - 📚 Love learning new technologies and improving coding skills
 
